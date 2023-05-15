@@ -1,2 +1,4 @@
 # Git4CTPublic
-This is the 4CTGit aka. Kev, Yan, Lui -> This is a TP exercise
+# 
+# Authors: Kev, Yan, Lui
+# Description: A TP exersice (7) -> This sucks!
